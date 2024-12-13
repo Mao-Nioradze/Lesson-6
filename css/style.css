@@ -98,6 +98,15 @@
     width: 310px;
     padding-bottom: 16px;
 }
+.box8{
+    display: flex;
+    flex-direction: column;
+    border-style: solid; 
+    border-width: 2px;
+    border-color: #EAECF0;
+    width: 310px;
+    padding-bottom: 16px;
+}
 .box-h2{
     font-family: Inter-regular;
     font-weight: 600;
@@ -234,9 +243,12 @@
 }
 .footer-section{
     display: flex;
-    width: 1440px;
-    justify-content: center;
-    padding-left{
-    
-    
+    padding-left: 176px;
+    padding-right: 176px;
+    justify-content: space-between;
+    background-color: #53535354;
+    align-content: center;
+    padding-top: 108px;
+    padding-bottom: 129px;
+
 }
