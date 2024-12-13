@@ -245,10 +245,14 @@
     display: flex;
     padding-left: 176px;
     padding-right: 176px;
-    justify-content: space-between;
     background-color: #53535354;
     align-content: center;
     padding-top: 108px;
     padding-bottom: 129px;
 
+}
+.footer-content{
+    display: flex;
+    width: 1235px;
+    justify-content: space-between;
 }
